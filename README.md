@@ -87,6 +87,20 @@
   </tr>
 </table>
 
+<h2>🛠️ Technologies Used</h2>
+
+<ul>
+  <li><b>PHP 8.2+</b> - Backend language</li>
+  <li><b>Laravel 10.x</b> - PHP framework</li>
+  <li><b>MySQL 8.0</b> - Database</li>
+  <li><b>Laravel Sanctum</b> - API authentication</li>
+  <li><b>Eloquent ORM</b> - Database relationships</li>
+  <li><b>Form Requests</b> - Validation</li>
+  <li><b>API Resources</b> - JSON transformation</li>
+  <li><b>Postman</b> - API testing</li>
+  <li><b>phpMyAdmin</b> - Database management</li>
+</ul>
+
 <h2>🔧 Features & Endpoints</h2>
 
 <h3>Countries API</h3>
@@ -217,64 +231,5 @@ php artisan install:api
 # 8. Start development server
 php artisan serve</code></pre>
 
-<h2>📁 Project Structure</h2>
 
-<pre style="background:#f6f8fa; padding:15px; border-radius:8px;"><code>app/
-├── Http/
-│   ├── Controllers/
-│   │   ├── Api/
-│   │   │   ├── CountryController.php
-│   │   │   ├── CityController.php
-│   │   │   ├── PropertyController.php
-│   │   │   ├── BookingController.php
-│   │   │   └── AuthController.php
-│   │   └── Controller.php
-│   └── Requests/
-│       └── API/
-│           ├── StoreCountryRequest.php
-│           ├── StoreCityRequest.php
-│           └── ...
-├── Models/
-│   ├── Country.php
-│   ├── City.php
-│   ├── Property.php
-│   ├── Booking.php
-│   ├── Guest.php
-│   ├── User.php
-│   └── ...
-└── ...
-
-routes/
-└── api.php          # API routes definition
-
-database/
-├── migrations/      # Database migrations
-└── seeders/         # Database seeders</code></pre>
-
-<h2>🗄️ Database Relationships</h2>
-
-<ul>
-  <li><b>Country</b> has many <b>Cities</b></li>
-  <li><b>City</b> has many <b>Properties</b></li>
-  <li><b>Property</b> has many <b>Bookings</b></li>
-  <li><b>Property</b> has many <b>PropertyImages</b></li>
-  <li><b>Property</b> belongs to many <b>Options</b> (many-to-many)</li>
-  <li><b>Booking</b> has many <b>Guests</b></li>
-  <li><b>User</b> has many <b>Bookings</b></li>
-  <li><b>Guest</b> belongs to <b>DocumentType</b></li>
-</ul>
-
-<h2>🛠️ Technologies Used</h2>
-
-<ul>
-  <li><b>PHP 8.2+</b> - Backend language</li>
-  <li><b>Laravel 10.x</b> - PHP framework</li>
-  <li><b>MySQL 8.0</b> - Database</li>
-  <li><b>Laravel Sanctum</b> - API authentication</li>
-  <li><b>Eloquent ORM</b> - Database relationships</li>
-  <li><b>Form Requests</b> - Validation</li>
-  <li><b>API Resources</b> - JSON transformation</li>
-  <li><b>Postman</b> - API testing</li>
-  <li><b>phpMyAdmin</b> - Database management</li>
-</ul>
 
