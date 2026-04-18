@@ -18,11 +18,8 @@
 
 <div align="center">
   <h3>Database Schema</h3>
-  <img src="https://github.com/user-attachments/assets/database-schema-placeholder" 
-       alt="Database schema in phpMyAdmin" 
-       width="800" 
-       style="max-width:100%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-</div>
+
+  <img src="https://github.com/user-attachments/assets/03a15ff2-170a-4a80-b14d-05a39126e56b" alt="Database schema in phpMyAdmin" width="800"  style="max-width:100%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 
 <div align="center">
   <h3>API Testing in Postman</h3>
