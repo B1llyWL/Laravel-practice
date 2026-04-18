@@ -278,10 +278,3 @@ database/
   <li><b>phpMyAdmin</b> - Database management</li>
 </ul>
 
-<h2>📝 License</h2>
-
-<p>This project is open-sourced software licensed under the <a href="LICENSE">MIT license</a>.</p>
-
----
-
-<p align="center">Made with ❤️ using Laravel</p>
