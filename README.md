@@ -24,10 +24,25 @@
 <div align="center">
   <h3>API Testing in Postman</h3>
   <img width="624" height="241" alt="Post запрос к country (Postman)" src="https://github.com/user-attachments/assets/0fa02a9f-1b72-476b-88bd-bb0d010ab0e2" />
+  <p align="center">
+  Post request to country (Postman)
+</p>
+  
   <img width="652" height="561" alt="GET запрос к country(Postman)" src="https://github.com/user-attachments/assets/8fee4d3e-6f36-4f29-a13c-80b1e4c610a9" />
+  <p align="center">
+  GET request to country (Postman)
+</p>
+
   <img width="610" height="290" alt="Post запрос к city (Postman)" src="https://github.com/user-attachments/assets/47bd84b9-a561-493c-841c-0088b8b64d36" />
+  <p align="center">
+  Post request to city (Postman)
+</p>
+
   <img width="624" height="532" alt="GET запрос к city (Postman)" src="https://github.com/user-attachments/assets/519656ba-5f48-4481-b760-ffcb5b33f515" />
 </div>
+ <p align="center">
+  GET request to city (Postman)
+</p>
 
 <h3> Database Tables</h3>
 <img width="1920" height="930" alt="database table" src="https://github.com/user-attachments/assets/69ccafc0-dfd3-43fe-93b5-add14e36b072" />
