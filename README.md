@@ -25,58 +25,11 @@
   <h3>API Testing in Postman</h3>
   <img src="https://github.com/user-attachments/assets/postman-test-placeholder" 
        alt="Postman API testing" 
-       width="800" 
-       style="max-width:100%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+       width="800">
 </div>
 
 <h3> Database Tables</h3>
-
-<table style="width:100%; border-collapse:collapse;">
-  <tr style="background:#f2f2f2;">
-    <th style="padding:10px; border:1px solid #ddd;">Table</th>
-    <th style="padding:10px; border:1px solid #ddd;">Description</th>
-  </tr>
-  <tr>
-    <td style="padding:8px; border:1px solid #ddd;"><code>countries</code></td>
-    <td style="padding:8px; border:1px solid #ddd;">List of countries (name, code)</td>
-  </tr>
-  <tr>
-    <td style="padding:8px; border:1px solid #ddd;"><code>cities</code></td>
-    <td style="padding:8px; border:1px solid #ddd;">Cities linked to countries</td>
-  </tr>
-  <tr>
-    <td style="padding:8px; border:1px solid #ddd;"><code>properties</code></td>
-    <td style="padding:8px; border:1px solid #ddd;">Property listings with pricing</td>
-  </tr>
-  <tr>
-    <td style="padding:8px; border:1px solid #ddd;"><code>bookings</code></td>
-    <td style="padding:8px; border:1px solid #ddd;">Booking records (check-in/out, status)</td>
-  </tr>
-  <tr>
-    <td style="padding:8px; border:1px solid #ddd;"><code>guests</code></td>
-    <td style="padding:8px; border:1px solid #ddd;">Guest information and documents</td>
-  </tr>
-  <tr>
-    <td style="padding:8px; border:1px solid #ddd;"><code>users</code></td>
-    <td style="padding:8px; border:1px solid #ddd;">Application users with authentication</td>
-  </tr>
-  <tr>
-    <td style="padding:8px; border:1px solid #ddd;"><code>property_images</code></td>
-    <td style="padding:8px; border:1px solid #ddd;">Property image gallery</td>
-  </tr>
-  <tr>
-    <td style="padding:8px; border:1px solid #ddd;"><code>options</code></td>
-    <td style="padding:8px; border:1px solid #ddd;">Additional property options/amenities</td>
-  </tr>
-  <tr>
-    <td style="padding:8px; border:1px solid #ddd;"><code>document_types</code></td>
-    <td style="padding:8px; border:1px solid #ddd;">Types of guest documents</td>
-  </tr>
-  <tr>
-    <td style="padding:8px; border:1px solid #ddd;"><code>personal_access_tokens</code></td>
-    <td style="padding:8px; border:1px solid #ddd;">Laravel Sanctum API tokens</td>
-  </tr>
-</table>
+<img width="1920" height="930" alt="database table" src="https://github.com/user-attachments/assets/69ccafc0-dfd3-43fe-93b5-add14e36b072" />
 
 <h2>🛠️ Technologies Used</h2>
 
