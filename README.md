@@ -12,12 +12,6 @@
   Built with Laravel 10, featuring authentication, database relationships, and CRUD operations.
 </p>
 
-<p align="center">
-  <a href="https://github.com/B1llyWL/Laravel-practice" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
-  </a>
-</p>
-
 ---
 
 <h2>📸 Screenshots</h2>
