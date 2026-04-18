@@ -16,35 +16,29 @@
 
 <h2>📸 Screenshots</h2>
 
-<div align="center">
+<div>
   <h3>Database Schema</h3>
 
   <img src="https://github.com/user-attachments/assets/03a15ff2-170a-4a80-b14d-05a39126e56b" alt="Database schema in phpMyAdmin" width="800"  style="max-width:100%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+</div>
 
-<div align="center">
+<div>
   <h3>API Testing in Postman</h3>
+  
   <img width="624" height="241" alt="Post запрос к country (Postman)" src="https://github.com/user-attachments/assets/0fa02a9f-1b72-476b-88bd-bb0d010ab0e2" />
-  <p align="center">
-  Post request to country (Postman)
-</p>
+  <h4 align="center">Post request to country (Postman)</h4>
   
   <img width="652" height="561" alt="GET запрос к country(Postman)" src="https://github.com/user-attachments/assets/8fee4d3e-6f36-4f29-a13c-80b1e4c610a9" />
-  <p align="center">
-  GET request to country (Postman)
-</p>
-
+  <h4 align="center">GET request to country (Postman)</h4>
+  
   <img width="610" height="290" alt="Post запрос к city (Postman)" src="https://github.com/user-attachments/assets/47bd84b9-a561-493c-841c-0088b8b64d36" />
-  <p align="center">
-  Post request to city (Postman)
-</p>
-
+  <h4 align="center">Post request to city (Postman)</h4>
+  
   <img width="624" height="532" alt="GET запрос к city (Postman)" src="https://github.com/user-attachments/assets/519656ba-5f48-4481-b760-ffcb5b33f515" />
+  <h4 align="center">GET request to city (Postman)</h4>
 </div>
- <p align="center">
-  GET request to city (Postman)
-</p>
 
-<h3> Database Tables</h3>
+<h3>Database Tables</h3>
 <img width="1920" height="930" alt="database table" src="https://github.com/user-attachments/assets/69ccafc0-dfd3-43fe-93b5-add14e36b072" />
 
 <h2>🛠️ Technologies Used</h2>
@@ -190,6 +184,11 @@ php artisan install:api
 
 # 8. Start development server
 php artisan serve</code></pre>
+
+
+
+
+
 
 
 
